@@ -1,6 +1,7 @@
 public abstract class Vehicle
 {
     //TEST PER GITHUB
+    //Second test
     public string ModelName { get; }
     public DateTime RegistrationDate { get; }
     public DateTime EntryDate { get; }
